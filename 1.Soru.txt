@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+      float a,b;
+   printf("a yi giriniz:");
+   scanf("%f",&a);
+   printf("b yi giriniz:");
+   scanf("%f",&b);
+   printf("Toplam:%0.2f",a+b);
+
+    return 0;
+}

@@ -1,0 +1,12 @@
+a. Maas Doğru
+b. Maas23 Doğru
+c. maas$ Yanlış
+d. 123_4 Yanlış
+e. MAAS Doğru
+f. double Doğru
+g. maas_$ Yanlış
+h. İf_123 Yanlış
+i. Maas_23 Doğru
+j. le Doğru
+k. 23_maas Yanlış
+l. İnt Yanlış

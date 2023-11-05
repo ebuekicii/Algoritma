@@ -1,0 +1,4 @@
+a. Toplam:integer=0; Yanlış
+b. Toplam=0, int;    Yanlış
+c. İnt toplam = 0;   Doğru
+d. İnt=0, toplam;    Yanlış

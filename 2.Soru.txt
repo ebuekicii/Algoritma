@@ -1,0 +1,11 @@
+1.Satır yorum satırı olarak kullanılmaktadır
+
+2.Satır kütüphaneyi belirtmektedir C kütüphanesine yönlendirmektedir.
+
+3.Bu satır bir fonksiyon tanımının kullanıldığı ilk satırdır
+
+5 ve 6. satırlarda ise gördüğünüz printf fonksiyonu stdio.h kütüphanesi içerisinde yer alan printf komutlar dizisine bir işlev çağrısıdır.Printf çağrısı ekrana ne yazdırılacağını söyler. Bu çağrı içerisinde yer alan \n boşluk satırı içindir ve çıktı olarak gösterilmez. Görevi “Merhaba Dünya!” çıktısı verildikten sonra çıktı ekranında imleci bir alt satıra geçirmektir. Bunun yanında her satırda kullanılan ; komutu satır işleminin bittiğini belirtir.
+
+7.Yazdığımız kodda ortaya çıkacak sonucun geri dönmesi istediğimiz zaman kodun sonunda “return 0” komutunu kullanırız.Yani proje sonucudur.
+
+8.Satırda ise süslü parantezler “{ }” fonksiyon içerisinde yazmış olduğumuz komutları sınırlandırır.                                                                                                   

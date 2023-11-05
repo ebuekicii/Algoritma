@@ -1,0 +1,7 @@
+A,B ve C SON DEĞERLERİ
+
+A =11
+
+B =7.5
+
+C =109/12

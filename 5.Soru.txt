@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    
+    int a,b ;
+    
+    printf("a yi giriniz : ");
+    scanf("%d", &a);
+    
+    printf("b yi giriniz : ");
+    scanf("%d", &b);
+    
+    printf("TOPLAM = %d\n", a+b);
+    
+    
+    return 0;
+}

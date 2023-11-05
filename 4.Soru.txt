@@ -1,0 +1,1 @@
+int toplam; (int tam sayı değerini ifade eder ve toplam olarak isimlendiririz)
