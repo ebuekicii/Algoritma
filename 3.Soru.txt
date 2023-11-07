@@ -3,7 +3,7 @@ b. Maas23 Doğru
 c. maas$ Yanlış
 d. 123_4 Yanlış
 e. MAAS Doğru
-f. double Doğru
+f. double Yanlış
 g. maas_$ Yanlış
 h. İf_123 Yanlış
 i. Maas_23 Doğru
