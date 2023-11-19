@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+int main() {
+    int a;
+    printf("Secmek istediginiz gunu 1-7 aralıgından secebilirsiniz: ");
+    scanf("%d", &a);
+    switch (a)
+    {
+    case 1:
+        printf("Pazartesi");
+        break;
+    case 2:
+        printf("Sali");
+        break;
+    case 3:
+        printf("Carsamba");
+        break;
+    case 4:
+        printf("Persembe");
+        break;
+    case 5:
+        printf("Cuma");
+        break;
+    case 6:
+        printf("Cumartesi");
+        break;
+    case 7:
+        printf("Pazar");
+        break;
+    default:
+        printf("Hatalı İslem Lütfen 1 ile 7 aralıgında bir sayi giriniz");
+        break;
+    }
+    return 0;
+}
